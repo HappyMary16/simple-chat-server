@@ -8,7 +8,7 @@ It can save only specified number of messages and only in memory.
 - Spring boot
 - Websockets
 
-You can find client [here](https://github.com/HappyMary16/simple-chat-client). 
+You can find a client [here](https://github.com/HappyMary16/simple-chat-client). 
 
 ## Resources
 ### HTTP
