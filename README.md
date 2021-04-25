@@ -3,12 +3,12 @@
 It is a server for a very simple chat.
 It can save only specified number of messages and only in memory.
 
+You can find a client [here](https://github.com/HappyMary16/simple-chat-client).
+
 ### Used technologies:
 - Java 8
 - Spring boot
-- Websockets
-
-You can find a client [here](https://github.com/HappyMary16/simple-chat-client). 
+- Websockets 
 
 ## Resources
 ### HTTP
