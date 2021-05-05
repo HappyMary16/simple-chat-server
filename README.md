@@ -10,6 +10,9 @@ You can find a client [here](https://github.com/HappyMary16/simple-chat-client).
 - Spring boot
 - Websockets 
 
+## Requirements
+- [Java 8](https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=hotspot)
+
 ## Resources
 ### HTTP
 ```GET /messages```
